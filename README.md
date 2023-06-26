@@ -3,8 +3,7 @@
 ## Topic and Data Source
 Our project objective is to perform a detailed analysis of a
 company’s ideal customers. It assists firms to better understand its target customers
-and makes it easier for them to tailor promotions according to the specific needs, behaviours and concerns of different
-types of customers. 
+and makes it easier for them to tailor promotions according to the specific needs, behaviours and concerns of customers. 
 
 For this analysis, we have obtained our dataset from Kaggle, which gives us information about
 
